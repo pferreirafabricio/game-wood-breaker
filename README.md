@@ -2,7 +2,7 @@
 
 ## :eyes: Como ficou?
 
-<img src="/projectImages/tela-jogo.png" width="auto" height="600px"></img>
+<img src="/projectImages/tela-jogo.png" width="auto" height="500px"></img>
 
 ## :man_technologist: Tecnologias usadas
 
