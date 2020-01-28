@@ -15,7 +15,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 O game Wood Breaker é um jogo simples, casual e viciante inspirado no Breakout (Atari), no qual você controla uma plataforma de folhas, pelo movimento horizontal do mouse, que rebate uma maça e quebra os blocos de madeira no topo da tela.
 <br/>
 O projeto foi desenvolvido durante o curso [Unity 5 + C#: Simplificando o Desenvolvimento de Jogos](https://www.udemy.com/course/aprendaunity/) com a ajuda do instrutor [José Augusto Thomas](https://www.udemy.com/user/josethomas9/).
-
+ <br/>-> [CERTIFICADO](https://www.udemy.com/certificate/UC-RMPQTLQU/)
 
 ## :memo: Licença
 
